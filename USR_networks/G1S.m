@@ -1,0 +1,13 @@
+function [ESP, COM, KNS] = G1S
+% Reference: Conradi et al PNAS 2007
+
+ESP={'Sic1','Sic1P','Clb','ClbSic1','ClbSic1P', ...
+     'ClbSic1Clb','Cdc14','Sic1PCdc14','ClbSic1PCdc14'};
+COM={'Sic1','0','Sic1P','Clb+Sic1','ClbSic1','Clb','Clb+Sic1P',...
+     'ClbSic1P', 'ClbSic1+Clb','ClbSic1Clb','ClbSic1P+Clb',...
+     'Sic1P+Cdc14','Sic1PCdc14','Sic1+Cdc14','ClbSic1P+Cdc14','ClbSic1PCdc14','ClbSic1+Cdc14'}; 
+KNS={'k_1_2' 'k_2_1' 'k_3_2' 'k_4_5' 'k_5_4' 'k_5_6' 'k_7_8' 'k_8_7' 'k_8_6'...
+     'k_9_10','k_10_9','k_10_11','k_12_13','k_13_12','k_13_14','k_15_16','k_16_15','k_16_17'};
+ 
+end
+
