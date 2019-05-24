@@ -1,0 +1,7 @@
+
+As indicated in the documentation, download the Cl Matcont package (version cl matcont5p4)
+
+https://sourceforge.net/projects/matcont/files/matcontm/matcontmp4/
+
+
+and copy here  the folder cl matcont5p4.
