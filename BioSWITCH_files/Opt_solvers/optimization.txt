@@ -1,0 +1,7 @@
+
+As indicated in the documentation, download the MEIGO-M package (version MEIGO
+M-v03-07-2014) 
+
+http://gingproc.iim.csic.es/meigom.html
+
+and copy here  the folder MEIGO-M-v03-07-2014
