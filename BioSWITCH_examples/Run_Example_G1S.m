@@ -4,6 +4,8 @@ display_message('Evaluate Network');
 BioSWITCH_Evaluate('G1S')
 
 display_message('Generate files for limit point search (system with mass conservation)');
+display_message(' Please choose MANUAL option and vector number 63')
+
 BioSWITCH_mkfiles_lpsearch_MassCon('G1S')
 
 display_message('Search for limit points (deficiency approach)');
